@@ -1,0 +1,13 @@
+torch>=0.4.1
+numpy==2.0.2
+matplotlib==3.9.4
+seaborn==0.13.2
+scikit-learn==1.6.1
+tqdm==4.67.1
+spacy
+transformers==4.51.3
+pytorch_pretrained_bert==0.6.2
+nltk
+nlpaug==1.1.11
+huggingface_hub==0.31.1
+pyarrow

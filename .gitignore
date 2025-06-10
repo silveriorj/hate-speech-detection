@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+.venv
+
+bertimbau
+bertabaporu
+data
+
+*dataset.csv
+
+.DS_Store
