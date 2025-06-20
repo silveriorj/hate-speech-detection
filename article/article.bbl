@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{10}
+\begin{thebibliography}{11}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -50,12 +50,24 @@
 
 
 \bibitem[Costa et~al\mbox{.}(2023)]%
-        {costa-etal-2023-bertabaporu}
+        {costa2023bertabaporu}
 \bibfield{author}{\bibinfo{person}{Pablo~Botton Costa}, \bibinfo{person}{Matheus~Camasmie Pavan}, \bibinfo{person}{Wesley~Ramos Santos}, \bibinfo{person}{Samuel~Caetano Silva}, {and} \bibinfo{person}{Ivandr{'e} Paraboni}.} \bibinfo{year}{2023}\natexlab{}.
 \newblock \showarticletitle{{BERT}abaporu: Assessing a Genre-Specific Language Model for {P}ortuguese {NLP}}. In \bibinfo{booktitle}{\emph{Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing}}, \bibfield{editor}{\bibinfo{person}{Ruslan Mitkov} {and} \bibinfo{person}{Galia Angelova}} (Eds.). \bibinfo{publisher}{INCOMA Ltd., Shoumen, Bulgaria}, \bibinfo{address}{Varna, Bulgaria}, \bibinfo{pages}{217--223}.
 \newblock
 \urldef\tempurl%
 \url{https://aclanthology.org/2023.ranlp-1.24}
+\showURL{%
+\tempurl}
+
+
+\bibitem[da~Silva(2025)]%
+        {github_repo}
+\bibfield{author}{\bibinfo{person}{Raul Jose~Silverio da Silva}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{hate-speech-detection}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://github.com/silveriorj/hate-speech-detection}
 \showURL{%
 \tempurl}
 
@@ -96,13 +108,6 @@
 \tempurl}
 
 
-\bibitem[Maia et~al\mbox{.}(2022)]%
-        {maia2022ulyssessd}
-\bibfield{author}{\bibinfo{person}{Dyonnatan~F Maia}, \bibinfo{person}{N{\'a}dia~FF Silva}, \bibinfo{person}{Ellen~PR Souza}, \bibinfo{person}{Augusto~S Nunes}, \bibinfo{person}{Lucas~C Proc{\'o}pio}, \bibinfo{person}{Guthemberg da~S Sampaio}, \bibinfo{person}{M{\'a}rcio de~S Dias}, \bibinfo{person}{Adrio~O Alves}, \bibinfo{person}{Dy{\'e}ssica~F Maia}, \bibinfo{person}{Ingrid~A Ribeiro}, {et~al\mbox{.}}} \bibinfo{year}{2022}\natexlab{}.
-\newblock \showarticletitle{UlyssesSD-Br: Stance Detection in Brazilian Political Polls}. In \bibinfo{booktitle}{\emph{EPIA Conference on Artificial Intelligence}}. Springer, \bibinfo{pages}{85--95}.
-\newblock
-
-
 \bibitem[Oliveira et~al\mbox{.}(2023)]%
         {oliveira2023tupye}
 \bibfield{author}{\bibinfo{person}{Felipe Oliveira}, \bibinfo{person}{Victoria Reis}, {and} \bibinfo{person}{Nelson Ebecken}.} \bibinfo{year}{2023}\natexlab{}.
@@ -118,6 +123,17 @@
 \newblock
 \urldef\tempurl%
 \url{https://doi.org/10.18653/v1/W17-1101}
+\showDOI{\tempurl}
+
+
+\bibitem[{Silly-Machine}(2023)]%
+        {silly-machine_2023}
+\bibfield{author}{\bibinfo{person}{{Silly-Machine}}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{TuPy-Dataset (Revision de6b18c)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.57967/hf/1529}
 \showDOI{\tempurl}
 
 

@@ -9,3 +9,12 @@ data
 *dataset.csv
 
 .DS_Store
+
+# remove LaTeX auto-generated files from any directory
+
+*.bbl
+*.blg
+*.gz
+*.out
+*.log
+*.aux
